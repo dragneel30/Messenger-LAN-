@@ -6,7 +6,7 @@ Download the project.zip file
 
 Open the .pro file of both server and client side with QT creator
 
-Note: 
+# Note: 
 
 change the port on servermanager.h to any available port.
 
