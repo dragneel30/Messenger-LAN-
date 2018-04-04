@@ -1,4 +1,4 @@
-# Messenger-LAN-
+# Messenger
 A simple messenger written in C++ using QT framework for GUI and SFML for network
 
 # How to run the project in QT creator
