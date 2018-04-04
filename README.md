@@ -1,5 +1,5 @@
 # Messenger-LAN-
-A simple LAN (Local Area Network) messenger written in C++ using QT framework for GUI and SFML for network
+A simple messenger written in C++ using QT framework for GUI and SFML for network
 
 # How to run the project in QT creator
 Download the project.zip file
